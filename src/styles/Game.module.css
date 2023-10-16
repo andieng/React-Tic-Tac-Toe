@@ -1,0 +1,27 @@
+.game {
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+
+.current_move {
+    margin: 0;
+}
+
+.move {
+    margin: 6px 0;
+}
+
+.game_board {
+    margin-right: 40px;
+}
+
+.game_info {
+    margin-top: 12px;
+}
+
+.toggle {
+    height: fit-content;
+    margin-top: 28px;
+    margin-left: 40px;
+}

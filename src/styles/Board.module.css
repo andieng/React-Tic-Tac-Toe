@@ -1,0 +1,7 @@
+.board_row {
+    display: flex;
+}
+
+.status {
+    margin-bottom: 10px;
+}
